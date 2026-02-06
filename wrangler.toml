@@ -1,4 +1,4 @@
-name = "xhttp-ravi-proxy"
+name = "xhttp-cloudflare"
 compatibility_date = "2026-02-06"
 main = "xhttp.js"
 
